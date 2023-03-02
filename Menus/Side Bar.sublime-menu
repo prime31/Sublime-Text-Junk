@@ -1,0 +1,20 @@
+[
+    {
+ 		"caption": "Open in iTerm…",
+		"id": "zig-open-in-terminal",
+ 		"command": "open_in_terminal",
+		"args": {"paths": []}
+ 	},
+	{
+		"caption": "Duplicate…",
+		"id": "zig-duplicate",
+		"command": "duplicate",
+		"args": {"paths": []}
+	},
+	{
+		"caption": "Move…",
+		"id": "zig-menu-move",
+		"command": "move",
+		"args": {"paths": []}
+	},
+ ]
