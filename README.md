@@ -2,9 +2,14 @@
 Some helper for use with Sublime Text
 
 
-## Setup
+## Setup - Package Control
+- `cmd+shift+p` and then select "Package Control: Add Repository"
+- add `https://github.com/prime31/Sublime-Text-Junk`
+- `cmd+shift+p` "Package Control: Install Package" and choose the `Sublime Text Junk` package
+
+## Setup - Manual
 - open your Sublime Text package folder (`Sublime Text -> Preferences -> Browse Packages` menu item)
-- `git clone https://github.com/prime31/sublime-junk "Sublime Junk"`
+- `git clone hhttps://github.com/prime31/Sublime-Text-Junk
 
 
 ## What Do You Get?
